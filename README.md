@@ -4,9 +4,9 @@
 •	Identifying frequency, recency, and monetary value using SQL. </br>
 •	Utilized Tableau to generate important customer insights. 
 
-Tableau Dashboard 1
+<b>Tableau Dashboard 1</b>
 ![alt text](https://github.com/gracexin98/Sales-RFM-Analysis/blob/main/Sales_Dash1.png)
 
 
-Tableau Dashboard 2
+<b>Tableau Dashboard 2</b>
 ![alt text](https://github.com/gracexin98/Sales-RFM-Analysis/blob/main/Sales_Dash2.png)
