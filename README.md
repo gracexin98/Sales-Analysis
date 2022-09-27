@@ -1,4 +1,5 @@
 # SALES ANALYSIS
+<b> Applied SQL, Tableau, statistical modeling (RFM model) in the project </b>
 
 ## Data
 The dataset tracks 2,500+ customer orders over 3 years, 19 countries, recording their purchase date, expenditure, and quantity bought.
