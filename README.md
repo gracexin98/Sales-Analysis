@@ -1,5 +1,5 @@
 # SALES ANALYSIS
-<b> Applied SQL, Tableau, statistical modeling (RFM model) in the project </b>
+<b> Applied SQL, Tableau, statistical modeling (RFM model) in the project. </b>
 
 ## Data
 The dataset tracks 2,500+ customer orders over 3 years, 19 countries, recording their purchase date, expenditure, and quantity bought.
@@ -11,8 +11,8 @@ Variables Status, ProductLine, Country, DealSize and Territory are nice to plot.
 ## Step Two : Analysis
 I started by grouping sales by productline. </br>
 What was the best month for sales in a specific year? How much was earned that month? </br>
-November seems to be the month, what product do they sell in November, Classic Cars </br>
-Who is our best customer (this could be best answered with RFM)
+November seems to be the month, what product do they sell in November? </br>
+Who is our best customer? (this could be best answered with RFM)
 
 ## Final Data
 I finalize the data using Tableau.
