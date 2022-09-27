@@ -1,4 +1,4 @@
-# SALES ANALYSIS
+# SALES RFM ANALYSIS
 <b> Applied SQL, Tableau, statistical modeling (RFM model) in the project. </b>
 
 ## Data
