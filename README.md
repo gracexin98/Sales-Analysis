@@ -31,5 +31,5 @@ From the plots I can discover : </br>
 ![alt text](https://github.com/gracexin98/Sales-RFM-Analysis/blob/main/Sales_Dash1.png)
 
 
-<b>Tableau Dashboard 2</b>
+## Tableau Dashboard 2
 ![alt text](https://github.com/gracexin98/Sales-RFM-Analysis/blob/main/Sales_Dash2.png)
