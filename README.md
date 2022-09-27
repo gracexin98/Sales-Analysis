@@ -4,7 +4,7 @@
 The RFM analysis is an effective marketing segmentation method to gain insight into customer behavior. In the exploratory data analysis, I calculated three indexes for the RFM model, which are recency, frequency, and monetary value. Combining those three indexes, I generate important customer insights and improve our segmentation strategy using Tableau visualization.
 
 ## Data
-The dataset tracks 2,823 customer orders over 3 years, 19 countries, recording their purchase date, expenditure, and quantity bought.
+The dataset tracks 1,000+ customer orders over 3 years, 19 countries, recording their purchase date, expenditure, and quantity bought.
 
 ## Step One : Data wrangling
 In this step , I clean the raw data by the following steps. </br>
