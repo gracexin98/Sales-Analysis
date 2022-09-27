@@ -1,35 +1,32 @@
-# High-Value Customer Targeting – RFM Analysis
-
-## Project Goal
-The RFM analysis is an effective marketing segmentation method to gain insight into customer behavior. In the exploratory data analysis, I calculated three indexes for the RFM model, which are recency, frequency, and monetary value. Combining those three indexes, I generate important customer insights and improve our segmentation strategy using Tableau visualization.
+# SALES ANALYSIS
 
 ## Data
-The dataset tracks 1,000+ customer orders over 3 years, 19 countries, recording their purchase date, expenditure, and quantity bought.
+The dataset tracks 2,500+ customer orders over 3 years, 19 countries, recording their purchase date, expenditure, and quantity bought.
 
 ## Step One : Data wrangling
-In this step , I clean the raw data by the following steps. </br>
-1. Load in the data </br>
-2. Detect missing data </br>
-3. Manage Date Columns </br>
-4. Generate New Columns  (Trips) 
+In this step, I clean the raw data and checking unique values. </br>
+Variables Status, ProductLine, Country, DealSize and Territory are nice to plot. 
 
-## Step Two : Generate key indexes
-I calculate three key indexes for the RFM analysis </br>
-Recency : When was a customer’s last purchase? </br>
-Frequency : How often does a customer make a purchase? </br>
-Monetary Value : How much money does a customer spend on purchases?
-
-## Step Three : Generate Ranking Index
-I calculate rank from 1 to 4 for each index, by dividing four equal ranges of percentile.
+## Step Two : Analysis
+I started by grouping sales by productline. </br>
+What was the best month for sales in a specific year? How much was earned that month? </br>
+November seems to be the month, what product do they sell in November, Classic Cars </br>
+Who is our best customer (this could be best answered with RFM)
 
 ## Final Data
-I finalize the data for the RFM analysis.
+I finalize the data using Tableau.
 
 ## Dashboard Key Findings
 From the plots I can discover : </br>
-1. Distribution of Rankings </br>
-2. Number of orders for each customer </br>
-3. Relationship between Recency & Frequency </br>
+1. Distribution of Revenue by Country </br>
+2. Quantity Distribution </br>
+3. Sales Distribution </br>
+4. Customer Distribution by Country </br>
+5. Revenue of ProductLine </br>
+6. DealSize Distribution </br>
+7. Revunue by Status </br>
+8. Sales by ProductLine and Order Year </br>
+9. Monthly Sales by country </br>
 
 ![alt text](https://github.com/gracexin98/Sales-RFM-Analysis/blob/main/Sales_Dash1.png)
 
